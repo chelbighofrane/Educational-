@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="map1" size="650.000000 376.041656" />
+    <ImageTarget name="rhinocerosFinal" size="650.000000 376.480011" />
+    <ImageTarget name="wombatFinal" size="650.000000 376.480011" />
+    <ImageTarget name="oursFinal" size="650.000000 376.480011" />
+    <ImageTarget name="crocodileFinal" size="650.000000 376.480011" />
+    <ImageTarget name="zebreFinal" size="650.000000 376.480011" />
+    <ImageTarget name="ElephantFinal" size="650.000000 376.480011" />
+  </Tracking>
+</QCARConfig>

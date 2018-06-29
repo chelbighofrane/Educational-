@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RA_AnimalsV1", "RA_AnimalsV1.csproj", "{9190F39A-AC3C-0634-BBD5-70025CBB0521}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RA_AnimalsV1.Editor", "RA_AnimalsV1.Editor.csproj", "{9C02D45F-6320-8A23-9738-8B90DC215268}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9190F39A-AC3C-0634-BBD5-70025CBB0521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9190F39A-AC3C-0634-BBD5-70025CBB0521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9190F39A-AC3C-0634-BBD5-70025CBB0521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9190F39A-AC3C-0634-BBD5-70025CBB0521}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C02D45F-6320-8A23-9738-8B90DC215268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C02D45F-6320-8A23-9738-8B90DC215268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C02D45F-6320-8A23-9738-8B90DC215268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C02D45F-6320-8A23-9738-8B90DC215268}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
